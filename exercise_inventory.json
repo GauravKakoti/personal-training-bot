@@ -1,0 +1,6 @@
+{
+    "DYNAMIC": ["Kettlebell Swings", "Kettlebell Cleans", "Burpees"],
+    "LOWER": ["Kettlebell Goblet Squats", "Double Kettlebell Back Lunges"],
+    "UPPER": ["Pushups", "Kettlebell Split Stance Row"],
+    "CORE": ["Planks", "Wall Sits"]
+  }
